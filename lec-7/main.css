@@ -1,0 +1,29 @@
+h1{
+    width: 80%;
+    background-color: aqua;
+    text-align: center;
+
+    
+    text-decoration: underline;
+    /* text-decoration:line-through; */
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 2px red;
+    font-family:sofia, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+a:link{
+    color:blue;
+
+}
+a:visited{
+    color:green;
+}
+a:hover{
+    color:red;
+}
+a:active{
+    color:yellow;
+}

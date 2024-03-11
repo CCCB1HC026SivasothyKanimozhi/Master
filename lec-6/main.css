@@ -1,0 +1,29 @@
+h1{
+    color:red
+}
+
+#subheading {
+    color: green ;
+}
+
+.content{ color: blue;
+    height: 300px;
+    width: 100%;
+ /* color name or hex code or RGB */
+ /* Border */
+ /* border: 3px dashed red; */
+ /* border: 3px solid #ff6347; */
+ /* border: 3px solid rgb(255,99,71); */
+ /* border: 3px solid rgba(255,99,71,0.8); */
+ /* border: 3px solid hsl(9,100%,64%); */
+ border-top: 4px solid red;
+ border-right: 4px solid green;
+ border-bottom: 4px solid blue;
+ border-left: 4px solid yellow;
+ border-radius: 10px;
+ /* background image */
+ background-image: url('./favicon.webp');
+ background-position: center;
+ margin-left: 50px;
+ padding:50px;
+}
